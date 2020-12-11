@@ -1,1 +1,2 @@
 # House-Prices-Driving-Factors
+ Using excel, preformed a data analysis of Home prices of 1460 houses in Ames, Iowa that were sold between 2006-2010. As Investors lend money to home buyers in mortgage-backed securities, success is dependent on the bank’s ability to identify good investments.  By identifying different qualities and home features that impact home prices, I was able to make better investment decisions.  As an analyst, my objective was to analyze the statistical relationships of home factors and home prices and identify the driving factors.
